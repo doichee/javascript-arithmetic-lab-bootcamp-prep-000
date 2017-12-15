@@ -1,1 +1,1 @@
-add(5 + 2);
+function add(5 + 2);
