@@ -19,6 +19,6 @@ function divide(a, b) {
 divide (432 / 51);
 
 function inc(n) {
-  return n+=3;
+  return (n+=3);
 }
 inc (23);
